@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "happy"
+    },
+    {
+      "id": 2,
+      "name": "sad"
+    },
+    {
+      "id": 3,
+      "name": "excited"
+    },
+    {
+      "id": 4,
+      "name": "relaxed"
+    },
+    {
+      "id": 5,
+      "name": "romantic"
+    },
+    {
+      "id": 6,
+      "name": "adventurous"
+    },
+    {
+      "id": 7,
+      "name": "scared"
+    },
+    {
+      "id": 8,
+      "name": "curious"
+    },
+    {
+      "id": 9,
+      "name": "inspired"
+    },
+    {
+      "id": 10,
+      "name": "nostalgic"
+    },
+    {
+      "id": 11,
+      "name": "funny"
+    },
+    {
+      "id": 12,
+      "name": "thoughtful"
+    }
+  ]
+  
